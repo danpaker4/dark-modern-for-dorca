@@ -1,0 +1,55 @@
+{
+  "manifestVersion": 2,
+  "id": "dark-modern-for-dorca",
+  "name": "Dark Modern for Dorca",
+  "version": "1.0.0",
+  "description": "Dark Modern and OLED app and editor themes, plus a matching OLED terminal palette.",
+  "author": {
+    "name": "danpaker4",
+    "url": "https://github.com/danpaker4"
+  },
+  "repository": "https://github.com/danpaker4/dark-modern-for-dorca",
+  "license": "MIT",
+  "engines": {
+    "orca": ">=2.0.10"
+  },
+  "execution": "data",
+  "contributes": {
+    "themes": [
+      {
+        "id": "dark-modern-editor-dark",
+        "title": "Dark Modern",
+        "path": "themes/dark.json"
+      },
+      {
+        "id": "dark-modern-oled",
+        "title": "Dark Modern OLED",
+        "path": "themes/dark-modern-oled.json"
+      }
+    ],
+    "terminalThemes": [
+      {
+        "id": "dark-modern-oled-terminal",
+        "title": "Dark Modern OLED",
+        "path": "terminal/oled.json"
+      }
+    ]
+  },
+  "capabilities": [],
+  "cover": {
+    "path": "images/cover.jpg",
+    "alt": "Dark Modern for Dorca with charcoal and OLED code previews and syntax color swatches"
+  },
+  "screenshots": [
+    {
+      "path": "images/dark-modern.png",
+      "alt": "Dark Modern in Dorca with charcoal surfaces and TypeScript syntax colors",
+      "caption": "Dark Modern"
+    },
+    {
+      "path": "images/dark-modern-oled.png",
+      "alt": "Dark Modern OLED in Dorca with black surfaces and TypeScript syntax colors",
+      "caption": "Dark Modern OLED"
+    }
+  ]
+}
