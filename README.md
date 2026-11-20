@@ -32,4 +32,8 @@ For the OLED terminal palette, select **Dark Modern OLED** under **Appearance â†
 
 ## Credits
 
-The syntax and Dark Modern palette come from [VS Code Default Themes for Orca](https://github.com/stablyai/orca-plugins/blob/2c75903f33203dede2d40db5fcc314aed19d3934/plugins/vscode-default-themes/themes/vs-code-dark-modern.json). The OLED app and terminal palettes come from [Orca OLED](https://github.com/stablyai/orca-plugins/tree/b411f469fb8e24d2520553aa82d14cde9f26de4f/plugins/oled-theme). See [LICENSE](LICENSE) and [LICENSE-OLED](LICENSE-OLED) for the upstream MIT notices.
+The syntax and Dark Modern palette come from [VS Code Default Themes for Orca](https://github.com/stablyai/orca-plugins/blob/2c75903f33203dede2d40db5fcc314aed19d3934/plugins/vscode-default-themes/themes/vs-code-dark-modern.json). The OLED app and terminal palettes come from [Orca OLED](https://github.com/stablyai/orca-plugins/tree/b411f469fb8e24d2520553aa82d14cde9f26de4f/plugins/oled-theme).
+
+## License
+
+Dark Modern for Dorca is licensed under the [MIT License](LICENSE). The upstream MIT notices are included in [LICENSE](LICENSE) and [LICENSE-OLED](LICENSE-OLED).
