@@ -36,4 +36,6 @@ The syntax and Dark Modern palette come from [VS Code Default Themes for Orca](h
 
 ## License
 
-Dark Modern for Dorca is licensed under the [MIT License](LICENSE). The upstream MIT notices are included in [LICENSE](LICENSE) and [LICENSE-OLED](LICENSE-OLED).
+Dark Modern for Dorca is licensed under the [MIT License](LICENSE).
+
+Upstream MIT notices are included for [Microsoft’s Dark Modern theme](LICENSE-DARK-MODERN) and [Lovecast’s Orca OLED theme](LICENSE-OLED).
